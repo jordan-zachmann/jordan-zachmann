@@ -3,6 +3,7 @@
 * I currently work for Productivity Quality Inc, where I build/maintain Windows applications, assist with Excel macros and operations, and work on improving routine tasks at various shop floors and labs.
 * I have worked on various research projects at my alma mater university (St. John's University) studying stars, as well as a project studying lakes and fires with NASA's Student Airborne Research Program.
 
+Not all of my daily work uses Github, so periods of inactivity here reflect that.
 <!--
 **jordan-zachmann/jordan-zachmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
